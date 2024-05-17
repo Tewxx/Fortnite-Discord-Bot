@@ -17,3 +17,11 @@ Replace the bot token all the way at the bottom with your discord bot token.
 
 https://discord.com/developers/applications/
 
+# Images
+![alt text](https://i.imgur.com/Yy1jfUP.png)
+
+![alt text](https://i.imgur.com/4hL7sap.png)
+
+![alt text](https://i.imgur.com/EkCp4UH.png)
+
+
